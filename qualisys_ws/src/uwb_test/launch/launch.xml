@@ -1,0 +1,4 @@
+<launch>
+  <executable cmd="ros2 bag record -a" output="screen" />
+  <node pkg="qualisys_mocap" exec="qualisys_node" />
+</launch>

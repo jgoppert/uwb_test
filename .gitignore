@@ -1,2 +1,5 @@
-build/
-install/
+qualisys_ws/src/uwb_msgs
+qualisys_ws/build
+qualisys_ws/log
+qualisys_ws/install
+rosbag*

@@ -11,7 +11,3 @@ repositories:
     type: git
     url: git@github.com:rudislabs/uwb_msgs.git
     version: main
-  qualisys_ws/src/uwb_test:
-    type: git
-    url: git@github.com:jgoppert/uwb_test.git
-    version: main

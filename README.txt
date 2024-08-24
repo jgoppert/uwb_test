@@ -1,3 +1,5 @@
+* Set ROS_DOMAIN_ID=0
+
 ```bash
 cd qualisys_ws
 colcon build --symlink-instll
