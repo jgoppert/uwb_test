@@ -1,0 +1,17 @@
+repositories:
+  qualisys_ws/src/qualisys_cpp_sdk:
+    type: git
+    url: git@github.com:jgoppert/qualisys_cpp_sdk.git
+    version: install_fix
+  qualisys_ws/src/qualisys_mocap:
+    type: git
+    url: git@github.com:melodylylin/qualisys_mocap.git
+    version: main
+  qualisys_ws/src/uwb_msgs:
+    type: git
+    url: git@github.com:rudislabs/uwb_msgs.git
+    version: main
+  qualisys_ws/src/uwb_test:
+    type: git
+    url: git@github.com:jgoppert/uwb_test.git
+    version: main
